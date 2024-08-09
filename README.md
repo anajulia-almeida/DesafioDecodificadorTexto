@@ -35,8 +35,8 @@ Nenhum requisito especial é necessário para executar este projeto. Apenas um n
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/encriptador-texto.git
-   cd encriptador-texto
+   git clone https://github.com/anajulia-almeida/DesafioDecodificadorTexto.git
+   cd DesafioDecodificadorTexto
 
 
 1. **Abra o Arquivo HTML**
